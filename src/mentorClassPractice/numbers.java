@@ -10,7 +10,7 @@ public class numbers {
 
         for (int i = 0; i <= 100; i++) {
 
-            if(i %15 == 0 && i % 3 == 0){
+            if(i % 15 == 0){
                 DBy15 += i + " ";
             }
 
